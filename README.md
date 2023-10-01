@@ -14,4 +14,6 @@ Skills: JAVA/KOTLIN/CPP/ REACT / JS / HTML / CSS
 - 📫 How to reach me: prmorey22@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I do meditation and Rifle Shooting
+
+  
 [![Purva's GitHub stats](https://github-readme-stats.vercel.app/api?username=PMorey22)](https://github.com/anuraghazra/github-readme-stats)
