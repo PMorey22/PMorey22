@@ -8,13 +8,13 @@
 
 Software engineer with experience in Android Development, ML,  IoT and Embeded Systems
 
-Skills: JAVA/KOTLIN/CPP/ REACT / JS / HTML / CSS
+Skills:Java/C++/Python/React.js/JavaScript/Machine Learning/Neural Networks/Tensorflow/Keras/GAN/AWS/Google Cloud/Docker/SQL/MongoDB/MS Excel/Collab/Postman/Git/Blender/PowerBi	
 
-- 🔭 I’m currently working on Android Development and Cloud
-- 🌱 I’m currently learning React Native
-- 👯 I’m looking to collaborate on Java, Android Development, Cloud
+- 🔭 I’m currently working on Machine Learning, Software Development and Cloud
+- 🌱 I’m currently learning Generative AI
+- 👯 I’m looking to collaborate on Java, Generative AI, Android Development, Cloud.
 - 🤔 I’m looking for help with Learning DevOps
-- 💬 Ask me about Java, DSA,OOP, Android Development, Kotlin
+- 💬 Ask me about Java, Machine Learning, DSA,OOP, Android Development, Kotlin, Generative AI.
 - 📫 How to reach me: prmorey22@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I do meditation and Rifle Shooting
