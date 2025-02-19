@@ -8,7 +8,7 @@
 
 Software engineer with experience in Android Development, ML,  IoT and Embeded Systems
 
-Skills:Java/C++/Python/React.js/JavaScript/Machine Learning/Neural Networks/Tensorflow/Keras/GAN/AWS/Google Cloud/Docker/SQL/MongoDB/MS Excel/Collab/Postman/Git/Blender/PowerBi	
+Skills:Java/C++/Python/React.js/JavaScript/Machine Learning/Neural Networks/Tensorflow/Keras/SQL/MongoDB/Collab/Postman/Git/Blender/PowerBi	
 
 - 🔭 I’m currently working on Machine Learning, Software Development and Cloud
 - 🌱 I’m currently learning Generative AI
