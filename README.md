@@ -1,8 +1,5 @@
 ### Hi there 👋, my name is Purva R. Morey
 #### .NET Full-Stack Developer | Azure AI & Agentic AI Specialist
-![Profile Banner](https://pbs.twimg.com/profile_banners/1609121383707181059/1696145308/1080x360)
-
-[![Purva's GitHub stats](https://github-readme-stats.vercel.app/api?username=PMorey22)](https://github.com/PMorey22)
 
 Full-Stack Developer with expertise in **.NET, C#, Angular, Azure Cloud Architecture, and Agentic AI Workflows**. Passionate about building enterprise-grade backend services, scalable REST APIs, and integrating intelligent automation into modern web platforms.
 
